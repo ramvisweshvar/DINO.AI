@@ -1,0 +1,42 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Clean, high-tech geometric dinosaur silhouette (roaring T-Rex profile) -->
+    <path
+        android:strokeWidth="3.0"
+        android:strokeColor="#00E676"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#1500E676"
+        android:pathData="
+            M 35 45 
+            L 55 30 
+            L 73 35 
+            L 78 50 
+            L 68 56 
+            L 76 66 
+            L 70 76 
+            L 56 74 
+            L 48 82 
+            L 38 80 
+            L 44 69 
+            L 30 64 
+            Z" />
+    <!-- Glowing Red Cybernetic Eye -->
+    <path
+        android:fillColor="#FF5722"
+        android:pathData="M 60 41 A 1.8 1.8 0 1 1 59.99 41 Z" />
+    <!-- Dynamic sound wave ripples / Primal Roar indicator -->
+    <path
+        android:strokeWidth="1.5"
+        android:strokeColor="#8000E676"
+        android:strokeLineCap="round"
+        android:pathData="M 83 45 A 15 15 0 0 1 81 65" />
+    <path
+        android:strokeWidth="1.5"
+        android:strokeColor="#4000E676"
+        android:strokeLineCap="round"
+        android:pathData="M 88 40 A 22 22 0 0 1 85 70" />
+</vector>

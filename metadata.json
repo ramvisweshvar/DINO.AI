@@ -1,0 +1,8 @@
+{
+  "name": "DINO.AI",
+  "description": "A prehistoric-themed, superpowered AI companion powered by Gemini, featuring multiple specialized dinosaur personas, local session epochs, and advanced creative engines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
